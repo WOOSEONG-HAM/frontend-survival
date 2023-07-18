@@ -1,12 +1,10 @@
 ‌# Table of contents
 
-## GitBook
+## 프론트엔드 생존코스
 
-- [Git Book 가이드](README.md)
-
-- [GitHub과 연동하기](/integration/integration-with-github.md)
-  - [PR 날리기](/integration/pull-request.md)
-
-## 효과적인 학습법
-
-- [미라클 모닝](miracle-morning.md)
+- [1주차](/week1/index.md)
+  - [개발 환경 세팅](/week1/developmentEnvironmentSetting.md)
+  - [TypeScript](/week1/typescript.md)
+  - [React](/week1/react.md)
+  - [Testing Library](/week1/testingLibrary.md)
+  - [Parcel & ESLint](/week1/parcelEslint.md)
