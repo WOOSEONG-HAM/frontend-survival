@@ -11,4 +11,9 @@
   - [Parcel & ESLint](/week1/parcelEslint.md)
 
 - [2주차](/week2/index.md)
+
   - [jsx](/week2/jsx.md)
+
+- [3주차](/week3/index.md)
+  - [reactComponent](/week3/reactComponent.md)
+  - [reactState](/week3/reactState.md)
