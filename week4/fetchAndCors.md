@@ -1,4 +1,4 @@
-# 4주차(Fetch API & CORS)
+# 4주차 Fetch API & CORS
 
 ## 학습 키워드
 
