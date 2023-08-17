@@ -52,14 +52,14 @@ JSX 코드
 
 ```jsx
 React.createElement(
-  "div",
+  'div',
   null,
-  React.createElement("p", null, "Count: ", count, "!"),
+  React.createElement('p', null, 'Count: ', count, '!'),
   React.createElement(
-    "button",
-    { type: "button", onClick: () => setCount(count + 1) },
-    "Increase"
-  )
+    'button',
+    { type: 'button', onClick: () => setCount(count + 1) },
+    'Increase',
+  ),
 );
 ```
 
@@ -68,7 +68,7 @@ React.createElement(
 > **StrictMode**는 애플리케이션 내의 잠재적인 문제를 알아내기 위한 도구이며, 개발 모드에서만 활성화되기 때문에, 프로덕션 빌드에는 영향을 끼치지 않는다.
 
 ```jsx
-import React from "react";
+import React from 'react';
 
 function ExampleApplication() {
   return (
@@ -123,5 +123,3 @@ function ExampleApplication() {
 - key값을 선정할 때는, 형제 사이에서만 유일하면 되고, 전역에서 유일한 value 일 필요는 없다.
 - 배열의 인덱스는 key로 사용하지 않는 것이 좋다. 항목들이 재배열되면, key값이 변경될 수 있기 때문이다.
 - key는 변하지 않고, 예상 가능하면서, 유일해야 한다. (Math.random() 같은 걸 key로 쓰면 안됨)
-
-## 2주차 후기

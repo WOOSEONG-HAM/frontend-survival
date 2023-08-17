@@ -91,7 +91,7 @@ https://www.developer.mozilla.org:80/en-KO/search?q=URL
 
 ## **HTTP(Hypertext Transfer Protocol) Method**
 
-> **HTTP(Hypertext Transfer Protocol)**는 \*\*\*\*웹상에서 클라이언트와 서버 간에 요청/응답으로 데이터를 주고 받을 수 있는 프로토콜(상호간의 규칙).
+> 웹상에서 클라이언트와 서버 간에 요청/응답으로 데이터를 주고 받을 수 있는 프로토콜(상호간의 규칙).
 
 **메소드(Method)는** 입력값이 있고, 그 입력값을 받아서 무언가 한 다음 결과를 도출해 내는 수학의 함수와 비슷한 개념이다.
 

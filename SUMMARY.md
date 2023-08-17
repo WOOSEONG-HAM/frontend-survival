@@ -30,3 +30,4 @@
   - [TDD](/week5/tdd.md)
   - [ReactTestingLibrary](/week5/reactTestingLibrary.md)
   - [MSW](/week5/msw.md)
+  - [Playwright](/week5/playwright.md)
