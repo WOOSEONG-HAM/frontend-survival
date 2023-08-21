@@ -31,3 +31,6 @@
   - [ReactTestingLibrary](/week5/reactTestingLibrary.md)
   - [MSW](/week5/msw.md)
   - [Playwright](/week5/playwright.md)
+
+- [6주차](/week6/index.md)
+  - [External Store](/week6/externalStore.md)
