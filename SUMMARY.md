@@ -35,3 +35,4 @@
 - [6주차](/week6/index.md)
   - [External Store](/week6/externalStore.md)
   - [TSyringe](/week6/tsyringe.md)
+  - [Redux](/week6/redux.md)
