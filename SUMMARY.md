@@ -36,3 +36,9 @@
   - [External Store](/week6/externalStore.md)
   - [TSyringe](/week6/tsyringe.md)
   - [Redux](/week6/redux.md)
+
+- [7주차](/week7/index.md)
+  - [Routing](/week7/routing.md)
+  - [Routes](/week7/routes.md)
+  - [Router](/week7/router.md)
+  - [Navigation](/week7/navigation.md)
