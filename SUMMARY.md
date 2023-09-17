@@ -43,5 +43,8 @@
   - [Router](/week7/router.md)
   - [Navigation](/week7/navigation.md)
 
-- [8주차](/week9/index.md)
+- [8주차](/week8/index.md)
   - [CSS in JS](/week8/cssInJs.md)
+
+- [9주차](/week9/index.md)
+  - [CSS in JS](/week9/before.md)
